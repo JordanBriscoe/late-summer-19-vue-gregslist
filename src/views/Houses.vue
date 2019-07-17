@@ -1,6 +1,6 @@
 <template>
     <div class="houses container">
-        <h1>Homes for Houses</h1>
+        <h1>A Place for Homes</h1>
         <div class="row justify-content-center">
             <form class="col-8 pb-5" @submit.prevent="addHouse">
                 <div class="form-group">
